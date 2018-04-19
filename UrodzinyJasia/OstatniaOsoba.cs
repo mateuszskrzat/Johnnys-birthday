@@ -8,6 +8,7 @@ namespace UrodzinyJasia
         int n; // potęgi liczby 2
         public OstatniaSwieczka() {
             Console.WriteLine("Podaj ile świeczek ma zdmuchnąć Jaś");
+            Console.WriteLine("How many candles Johnny must blow?");
             l = int.Parse(Console.ReadLine()); //wczytanie ilosci świeczek
             z = 2;//z = 2^1
             n = 2;
@@ -25,11 +26,13 @@ namespace UrodzinyJasia
                 else if (l == z + 1)//jesli zmienna l jest rowna spotegowanemu (2^n) + 1, ostatnia zapalona świeczka to (2^n) + 1
                 { 
                     Console.WriteLine("Ostatnia zapalona świeczka to " + (z + 1));
+                    Console.WriteLine("Last lit candle is " + (z + 1));
                     break;
                 }
                 else //jesli liczba świeczek jest mniejsza od z+1
                 { 
-                    Console.WriteLine("Ostatnia zapalona świeczka to " + ((((z1 + l + 1) % (z + 1)) * 2) + 1));//((((2^(n-1) + ilość świeczek + 1) mod ((2^n) + 1)) * 2) + 1)
+                    Console.WriteLine("Ostatnia zapalona świeczka to " + ((((z1 + l + 1) % (z + 1)) * 2) + 1));
+                    Console.WriteLine("Last lit candle is " + ((((z1 + l + 1) % (z + 1)) * 2) + 1)); //((((2^(n-1) + ilość świeczek + 1) mod ((2^n) + 1)) * 2) + 1)
                     //pobieramy z1 jako poprzednio spotegowana z, dodajemy liczbe osob i cyfre 1, obliczamy reszte z dzielenia sumy przez z + 1
                     //wynik ten mnozymy razy 2, i na koniec dodajemy 1, wynikiem jest ostatnia zapalona świeczka
                     break;

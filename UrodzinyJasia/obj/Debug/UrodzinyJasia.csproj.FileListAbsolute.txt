@@ -5,3 +5,10 @@ C:\Users\Mateusz\source\repos\UrodzinyJasia\UrodzinyJasia\obj\Debug\UrodzinyJasi
 C:\Users\Mateusz\source\repos\UrodzinyJasia\UrodzinyJasia\obj\Debug\UrodzinyJasia.csproj.CoreCompileInputs.cache
 C:\Users\Mateusz\source\repos\UrodzinyJasia\UrodzinyJasia\obj\Debug\UrodzinyJasia.exe
 C:\Users\Mateusz\source\repos\UrodzinyJasia\UrodzinyJasia\obj\Debug\UrodzinyJasia.pdb
+C:\Users\Mateusz\Desktop\Unity\UnityRepos\Johnny's birthday\UrodzinyJasia\bin\Debug\UrodzinyJasia.exe.config
+C:\Users\Mateusz\Desktop\Unity\UnityRepos\Johnny's birthday\UrodzinyJasia\bin\Debug\UrodzinyJasia.exe
+C:\Users\Mateusz\Desktop\Unity\UnityRepos\Johnny's birthday\UrodzinyJasia\bin\Debug\UrodzinyJasia.pdb
+C:\Users\Mateusz\Desktop\Unity\UnityRepos\Johnny's birthday\UrodzinyJasia\obj\Debug\UrodzinyJasia.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\Unity\UnityRepos\Johnny's birthday\UrodzinyJasia\obj\Debug\UrodzinyJasia.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Unity\UnityRepos\Johnny's birthday\UrodzinyJasia\obj\Debug\UrodzinyJasia.exe
+C:\Users\Mateusz\Desktop\Unity\UnityRepos\Johnny's birthday\UrodzinyJasia\obj\Debug\UrodzinyJasia.pdb
