@@ -1,0 +1,7 @@
+C:\Users\Mateusz\source\repos\UrodzinyJasia\UrodzinyJasia\bin\Debug\UrodzinyJasia.exe.config
+C:\Users\Mateusz\source\repos\UrodzinyJasia\UrodzinyJasia\bin\Debug\UrodzinyJasia.exe
+C:\Users\Mateusz\source\repos\UrodzinyJasia\UrodzinyJasia\bin\Debug\UrodzinyJasia.pdb
+C:\Users\Mateusz\source\repos\UrodzinyJasia\UrodzinyJasia\obj\Debug\UrodzinyJasia.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\source\repos\UrodzinyJasia\UrodzinyJasia\obj\Debug\UrodzinyJasia.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\UrodzinyJasia\UrodzinyJasia\obj\Debug\UrodzinyJasia.exe
+C:\Users\Mateusz\source\repos\UrodzinyJasia\UrodzinyJasia\obj\Debug\UrodzinyJasia.pdb
